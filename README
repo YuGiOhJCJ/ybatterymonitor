@@ -1,0 +1,19 @@
+ybatterymonitor
+
+ybatterymonitor is a battery monitor.
+
+Requirements:
+- GCC 4.8.2 https://gcc.gnu.org/
+- GNU Make 3.82 http://www.gnu.org/software/make/
+- Qt 5.3.2 http://www.qt.io/
+- SDL 2.0.3 http://www.libsdl.org/
+
+See the INSTALL file for the instructions on how to build this software from the source code.
+
+See the ChangeLog file for the history of the changes.
+
+See the TODO file for the list of things left to do.
+
+See the COPYING file for the license.
+
+See the AUTHORS file for the contact address.

@@ -1,0 +1,3 @@
+To build the project type this:
+$ qmake
+$ make
