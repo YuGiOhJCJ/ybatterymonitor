@@ -1,5 +1,9 @@
 2015-07-09  YuGiOhJCJ  <yugiohjcj@1s.fr>
 
+	* ybatterymonitor.pro: Modified file (use the "ybatterymonitor" value instead of "ybatterymonitor-current" for the "TARGET" variable).
+
+2015-07-09  YuGiOhJCJ  <yugiohjcj@1s.fr>
+
 	* BatteryMonitor.cpp: Modified file (replace "Copyright 2012" by "Copyright 2012, 2015").
 
 	* BatteryMonitor.cpp: Modified file (include the "SDL2/SDL_power.h" header).
@@ -15,7 +19,7 @@
 	* BatteryMonitor.cpp(update): Modified file (this function calls "QString::number" to convert the percentage to a "QString").
 
 	* BatteryMonitor.h: Modified file (replace "Copyright 2012" by "Copyright 2012, 2015").
-	
+
 	* BatteryMonitor.h: Modified file (replace "QLabel" by "QtWidgets/QLabel").
 
 	* BatteryMonitor.h: Modified file (replace "QWidget" by "QtWidgets/QWidget").

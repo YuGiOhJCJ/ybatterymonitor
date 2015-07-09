@@ -1,7 +1,7 @@
 # ybatterymonitor.pro
 
 TEMPLATE = app
-TARGET = ybatterymonitor-current
+TARGET = ybatterymonitor
 INCLUDEPATH += .
 
 # Input
